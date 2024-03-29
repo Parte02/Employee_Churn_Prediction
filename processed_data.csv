@@ -1,0 +1,10 @@
+Unnamed: 0,satisfaction_level,last_evaluation,number_project,average_montly_hours,time_spend_company,Work_accident,promotion_last_5years,departments,salary,Predicted_target
+0,0.38,0.53,2,157,3,0,0,sales,low,An employee may leave the organization.
+1,0.8,0.86,5,262,6,0,0,sales,medium,An employee may leave the organization.
+2,0.11,0.88,7,272,4,0,0,sales,medium,An employee may leave the organization.
+3,0.72,0.87,5,223,5,0,0,sales,low,An employee may leave the organization.
+4,0.98,0.66,5,248,3,0,0,technical,medium,An employee may stay with the organization.
+5,0.75,0.7,4,144,4,0,0,technical,high,An employee may stay with the organization.
+6,1.0,0.41,4,174,3,0,0,technical,low,An employee may stay with the organization.
+7,0.24,0.82,5,179,6,0,0,technical,medium,An employee may stay with the organization.
+8,0.84,0.43,6,246,4,0,0,technical,medium,An employee may stay with the organization.
